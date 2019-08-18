@@ -1,8 +1,7 @@
-bin
 .settings
 .fatjar
 .project
 .classpath
 *.iml
-out
 .idea
+target
